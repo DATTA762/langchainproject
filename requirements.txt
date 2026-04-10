@@ -1,0 +1,14 @@
+faiss-cpu
+sentence-transformers
+transformers
+numpy
+pandas
+PyPDF2
+python-dotenv
+groq
+langchain
+langchain-community
+langchain-core
+fastapi
+uvicorn
+streamlit
